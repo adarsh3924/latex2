@@ -1,1 +1,1 @@
-# latex2
+Git helps teams work together on the same code from anywhere in the world. Everyone has their own copy of the project. They can make changes on their own, and then upload (push) those changes online. Others can download (pull) the updates. This way, Git keeps everyone’s work organized, avoids confusion, and helps combine everyone's efforts smoothly.
